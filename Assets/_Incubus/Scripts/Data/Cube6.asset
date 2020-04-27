@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e6181feccf3345f9828ba950ff74f30, type: 3}
+  m_Name: Cube6
+  m_EditorClassIdentifier: 
+  CubeNumber: 6
+  Texture: {fileID: 2100000, guid: 687969e40f8454033be79d1231eda04f, type: 2}
+  N_Cube: {fileID: 0}
+  S_Cube: {fileID: 11400000, guid: c65a647042cae45f4875c753267248bd, type: 2}
+  E_Cube: {fileID: 11400000, guid: 0f091eafe22f64077887ee9fb17ea89d, type: 2}
+  W_Cube: {fileID: 0}
