@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/_Incubus/Scenes/Lobby.unity
+- path: Assets/_Incubus/Scenes/Game.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
